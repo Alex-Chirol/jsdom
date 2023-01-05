@@ -44,9 +44,13 @@ monBouton.addEventListener('click', () => {
 });
 
 
+
+// Autre essaie pour la science
+
+
 // monBouton.addEventListener('click', () => {
   
 //   const liste = document.getElementById('maListe');
-//   liste.innerHTML += '<li>Nouvel élément</li>';
+//   liste.innerHTML += '<li><a href="#">Nouvel élément</a></li>';
 
 // });
